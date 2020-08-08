@@ -25,7 +25,7 @@ SECRET_KEY = '8#iqh8)=@&m5f!xvh($4xllc!kop3$lzy-(1xytw+xnuf8lg3+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'btgartamaker.python-anywhere.com' ]
+ALLOWED_HOSTS = ['127.0.0.1', 'btgartamaker.pythonanywhere.com' ]
 
 
 # Application definition
